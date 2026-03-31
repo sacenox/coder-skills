@@ -4,8 +4,8 @@ description: >
   Perform a thorough code review on a diff, changeset, or file.
   Use when the user asks to review code, review a PR, review a diff,
   check code quality, find bugs, or audit code for issues. Also use
-  when the user says "review this", "what's wrong with this code",
-  "check this PR", or "look over these changes".
+  when the user says "review this" when speaking about code, "what's 
+  wrong with this code", "check this PR", or "look over these changes".
 license: Apache-2.0
 metadata:
   author: xonecas

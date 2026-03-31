@@ -7,6 +7,7 @@ A collection of agent skills compliant with the [agentskills.io](https://agentsk
 | Skill | Description |
 |-------|-------------|
 | [code-review](code-review/) | Thorough, structured code review with severity-tiered findings |
+| [systematic-debugging](systematic-debugging/) | Hypothesis-driven bug diagnosis and resolution |
 
 ## Usage
 
