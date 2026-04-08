@@ -1,4 +1,4 @@
-# CLAUDE.md
+# AGENTS.md
 
 This repo contains agent skills that follow the [agentskills.io](https://agentskills.io) open spec.
 
