@@ -7,6 +7,7 @@ A collection of agent skills compliant with the [agentskills.io](https://agentsk
 | Skill | Description |
 |-------|-------------|
 | [code-review](code-review/) | Thorough, structured code review with severity-tiered findings |
+| [programming-practices](programming-practices/) | Write and modify production code with strong engineering practices and safeguards against AI-specific failure modes |
 | [systematic-debugging](systematic-debugging/) | Hypothesis-driven bug diagnosis and resolution |
 | [testing-practices](testing-practices/) | Write and review tests following proven testing practices, with safeguards against AI-specific blind spots |
 
